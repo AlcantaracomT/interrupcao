@@ -4,6 +4,7 @@
 Este projeto utiliza um Raspberry Pi Pico para controlar uma matriz 5x5 de LEDs WS2812, um LED RGB e dois botões. O sistema exibe números na matriz de LEDs, controla o LED RGB piscante e utiliza interrupções para capturar eventos dos botões.
 
 ## Video Projeto Funcionando
+Vídeo Demonstrativo: https://youtu.be/8narBxDu6MQ 
 
 ## Funcionalidades
 - Exibição de números de 0 a 9 na matriz de LEDs
