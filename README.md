@@ -41,7 +41,7 @@ Vídeo Demonstrativo: https://youtu.be/8narBxDu6MQ
 3. Compile e envie o código para o Raspberry Pi Pico (usando o SDK do Pico).
 
 ## Estrutura do Código
-- `main.c` - Arquivo principal do projeto, onde a lógica de controle da matriz e dos LEDs está implementada.
+- `interLed.c` - Arquivo principal do projeto, onde a lógica de controle da matriz e dos LEDs está implementada.
 - `ws2812.pio` - Programa para o PIO que controla os LEDs WS2812.
 
 ## Como Usar
